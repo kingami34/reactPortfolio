@@ -1,0 +1,24 @@
+{
+  "name": "reactPortfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "resume.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kingami34/reactPortfolio.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kingami34/reactPortfolio/issues"
+  },
+  "homepage": "https://github.com/kingami34/reactPortfolio#readme",
+  "dependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-react-app": "^3.1.2"
+  }
+}
