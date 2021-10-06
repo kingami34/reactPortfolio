@@ -4,7 +4,7 @@ import Home from './components/home';
 import Aboutme from './components/aboutme';
 import Work from './components/work';
 import Contactme from './components/contactme';
-import './src/App.js'
+// import './src/App.js'
 
 
 
