@@ -1,6 +1,6 @@
 import React from "react";
 
-function Work (){
+export default function Work () {
     return (
         <div class="list-groups">
         <a href="#" class="list-group-item list-group-item-action active" id="work">
@@ -52,5 +52,3 @@ function Work (){
         </div>
     );
 }
-
-export default Work ();
