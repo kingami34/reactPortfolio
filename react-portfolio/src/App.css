@@ -1,38 +1,185 @@
-.App {
-  text-align: center;
+body {
+  background-color: lightgrey;
+  width: 100%;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+
+.hero {
+  background-image: url("./Assets/images/beachPicture.jpg");
+  height: 600px;
+  width: 100%;
+
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+/*ul .Info li{
+  
+  list-style: none;
+  display: inline;
+}*/
+
+.hr {
+  width: 600px;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+#aboutMe {
+  position: relative;
+  top: 150px;
+}
+
+.Doer {
+  margin-top: -300px;
+  margin-left: 400px;
+}
+#work{
+   position: relative;
+ font-size: 25px;  
+
+
+}
+
+
+.vl-1 {
+  border-left: 6px solid red;
+  height: 300px;
+  margin-left: 250px;
+  margin-top: 0px;
+}
+
+.vl-12 {
+  border-left: 6px solid red;
+  height: 200px;
+  margin-left: 250px;
+  margin-top: 200px;
+
+
+}
+
+.vl-2 {
+  border-left: 6px solid red;
+  height: 600px;
+  margin-left: 300px;
+  
+}
+
+
+.Code {
+  background-image: url("./Assets/images/Code.jpg");
+  color: yellow;
   display: flex;
-  flex-direction: column;
-  align-items: center;
+  margin-right: -500px;
+  margin-top: -300px;
+  position: relative;
+  right: -500px;
+  
+  
+
+}
+
+
+
+.Node {
+  background-image: url("./Assets/images/Node.jpg");
+  color: yellow;
+  display: flex;
+  margin-right: -500px;
+  margin-top: -250px;
+  position: relative;
+  right: -500px;
+}
+
+.Hard {
+  background-image: url("./Assets/images/Hardwork.jpg");
+  color: yellow;
+  display: flex;
+  margin-right: -500px;
+  margin-top: 100px;
+  position: relative;
+  right: -500px;
+}
+
+.Team {
+  background-image: url("./Assets/images/Team.jpg");
+  color: yellow;
+}
+
+.strategy {
+  background-image: url("./Assets/images/Strategy.jpg");
+  color: yellow;
+}
+
+#contactme {
+  display: flex;
+  position: relative;
+  font-size: 25px;
+
+}
+.list-group{
+  position: relative;
+  bottom: -250px;
+  padding: 20px;
+}
+
+
+.Info {
+  position: relative;
+  bottom: 100px;
+  margin-left: 500px;
+  margin-top: -775px;
+  list-style: none;
+  text-decoration: underline;
+  display: inline-flex;
+ 
+  
+
+}
+
+.Resume {
+  background-color: brown;
+  text-align: left;
+
+
+}
+
+img {
+  width: 150px;
+  height: 150px;
+  margin-right: 250px;
+  padding: 5px;
+  content: left;
+
+}
+
+.Coding {
+  background-image: url(./Assets/images/Coding.jpg);
+}
+
+.JeffLynch {
+  display: flex;
   justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+  margin-top: 500px;
+  color: beige;
 }
 
-.App-link {
-  color: #61dafb;
+.View {
+  display: flex;
+  justify-content: center;
+}
+.learnMore{
+  margin: 10px;
+  font-size: 25px;
+}
+.my-5{
+  font-weight: bold;
+  padding-left: 15px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.container{
+  display: flex;
+
 }
+ .card1{
+position: relative;
+bottom: -250px;
+background-color: white;
+padding-bottom: 25px;
+ }
