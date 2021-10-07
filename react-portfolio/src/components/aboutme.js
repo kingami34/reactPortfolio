@@ -15,9 +15,7 @@ function Aboutme () {
             complete daily task. Experience performing quality assurance testing and consultative services for
             customers. Rounding out work skill with over six years of sales, and communication experience as a realtor.
         </p>
-        <p class="my-4"></p>
-        <p class="my-5">If you would like to learn more about me click link below.</p>
-        <a class="btn btn-primary btn-lg learnMore" href="Resume.html" role="button">Learn more</a>
+    
     </div>
     )
 }

@@ -8,8 +8,9 @@ export default function Home () {
         <h2>Hi I'm Jeff Lynch</h2>
     </div>
     <div class = "View">
-        <a href="Home" class="btn btn-primary btn-lg active" role="button"
-            aria-pressed="true">Click Link</a>
+    <p class="my-4"></p>
+        <p class="my-5">If you would like to learn more about me click link below.</p>
+        <a class="btn btn-primary btn-lg learnMore" href="Resume.html" role="button">Learn more</a>
     </div></>
     );
 }
