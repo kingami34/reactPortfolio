@@ -5,7 +5,7 @@ body {
 
 
 .hero {
-  background-image: url("./images/beachPicture.jpg");
+  background-image: url("./src/images/beachPicture.jpg");
   height: 600px;
   width: 100%;
 
@@ -63,7 +63,7 @@ body {
 
 
 .Code {
-  background-image: url("./images/Code.jpg");
+  background-image: url("./src/images/Code.jpg");
   color: yellow;
   display: flex;
   margin-right: -500px;
@@ -78,7 +78,7 @@ body {
 
 
 .Node {
-  background-image: url("./images/Node.jpg");
+  background-image: url("./src/images/Node.jpg");
   color: yellow;
   display: flex;
   margin-right: -500px;
@@ -88,7 +88,7 @@ body {
 }
 
 .Hard {
-  background-image: url("./images/Hardwork.jpg");
+  background-image: url("./src/images/Hardwork.jpg");
   color: yellow;
   display: flex;
   margin-right: -500px;
@@ -98,12 +98,12 @@ body {
 }
 
 .Team {
-  background-image: url("./images/Team.jpg");
+  background-image: url("./src/images/Team.jpg");
   color: yellow;
 }
 
 .strategy {
-  background-image: url("./images/Strategy.jpg");
+  background-image: url("./src/images/Strategy.jpg");
   color: yellow;
 }
 
@@ -150,7 +150,7 @@ img {
 }
 
 .Coding {
-  background-image: url("./images/Coding.jpg");
+  background-image: url("./src/images/Coding.jpg");
 }
 
 .JeffLynch {
