@@ -1,10 +1,11 @@
 import React from "react";
 
+
 export default function Work () {
     return (
-        
+        <body>
         <div class="list-groups">
-        <a href="#" class="list-group-item list-group-item-action active" id="work">
+        <a href="#Work" class="list-group-item list-group-item-action active" id="work">
             Work
         </a>
         <div class="container">
@@ -52,6 +53,6 @@ export default function Work () {
             </div>
         </div>
         </div>
-        
+        </body>
     );
 }
