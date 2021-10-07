@@ -10,7 +10,7 @@ export default function Work () {
         </a>
         <div class="container">
             <div class="card" style={{width: "18rem"}}>
-                <img src="./images/Code.jpg" class="card-img-top" alt="..."/>
+                <img src="../images/Code.jpg" class="card-img-top" alt="..."/>
                 <div class="card-body">
                     <h5 class="card-title">Daily Calendar</h5>
                         <p class="card-text">The Daily Calendar helps the user plan their day.</p>
@@ -18,7 +18,7 @@ export default function Work () {
                 </div>
             </div>
             <div class="card1" style={{width: "18rem"}}>
-                <img src="./images/Coding.jpg" class="card-img-top" alt="..."/>
+                <img src="..src/images/Coding.jpg" class="card-img-top" alt="..."/>
                 <div class="card-body">
                     <h5 class="card-title">Code Challenge</h5>
                     <p class="card-text">Code Challenge is an app for the user to test their coding knowledge.</p>
@@ -26,7 +26,7 @@ export default function Work () {
                 </div>
             </div>
             <div class="card" style={{width: "18rem"}}>
-                <img src="./images/Hardwork.jpg" class="card-img-top" alt="..."/>
+                <img src="./component/Hardwork.jpg" class="card-img-top" alt="..."/>
                 <div class="card-body">
                     <h5 class="card-title">Fixed 2.0</h5>
                     <p class="card-text">Fixed 2.0 is about refactoring an app.</p>
