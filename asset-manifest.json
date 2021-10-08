@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/static/js/main.b278e32f.chunk.js",
+    "main.js.map": "/static/js/main.b278e32f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.db76a258.js",
+    "runtime-main.js.map": "/static/js/runtime-main.db76a258.js.map",
+    "static/js/2.10ccc965.chunk.js": "/static/js/2.10ccc965.chunk.js",
+    "static/js/2.10ccc965.chunk.js.map": "/static/js/2.10ccc965.chunk.js.map",
+    "static/js/3.2beb4d71.chunk.js": "/static/js/3.2beb4d71.chunk.js",
+    "static/js/3.2beb4d71.chunk.js.map": "/static/js/3.2beb4d71.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.10ccc965.chunk.js.LICENSE.txt": "/static/js/2.10ccc965.chunk.js.LICENSE.txt",
+    "static/media/Code.e5cce289.jpg": "/static/media/Code.e5cce289.jpg",
+    "static/media/Coding.c71e395f.jpg": "/static/media/Coding.c71e395f.jpg",
+    "static/media/Hardwork.5ec92e78.jpg": "/static/media/Hardwork.5ec92e78.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db76a258.js",
+    "static/js/2.10ccc965.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.b278e32f.chunk.js"
+  ]
+}
