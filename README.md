@@ -1,5 +1,4 @@
 # reactPortfolio
-# reactPortfolio
 
 ## Description
 
@@ -20,16 +19,16 @@ This project is an insight to my portfolio of my professional accomplishments.
 
 ## Installation
 
->The first thing you need to go into VS Code and create our portfolio file
+>The first thing uploaded npx create-react-app my-app to VS code.
 >Set-up HTML and style css to give an outline to this project.
 >Add an HTML cover page to give the project a more professional look.
 
 
-## Class
+
 
 ## Usage
 
-![HTML](./Assets/images/Capture3.PNG)
+![HTML](./images/Portfolio3.PNG)
 
 
 
