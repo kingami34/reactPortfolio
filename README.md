@@ -20,7 +20,9 @@ This project is an insight to my portfolio of my professional accomplishments.
 ## Installation
 
 >The first thing uploaded npx create-react-app my-app to VS code.
+
 >Set-up HTML and style css to give an outline to this project.
+
 >Add an HTML cover page to give the project a more professional look.
 
 
@@ -28,7 +30,7 @@ This project is an insight to my portfolio of my professional accomplishments.
 
 ## Usage
 
-![HTML](./images/Portfolio3.PNG)
+![HTML](./src/components/images/Portfolio3.PNG)
 
 
 
