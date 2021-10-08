@@ -30,7 +30,7 @@ This project is an insight to my portfolio of my professional accomplishments.
 
 ## Usage
 
-![HTML](./src/components/images/Portfolio3.PNG)
+![HTML](./react-portfolio/src/components/images/Portfolio3.PNG)
 
 
 
