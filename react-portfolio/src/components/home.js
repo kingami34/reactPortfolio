@@ -1,5 +1,5 @@
 import React from 'react';
-
+import Code from './images/Code.jpg'
 
 export default function Home () {
     return (
@@ -10,7 +10,7 @@ export default function Home () {
     <div class = "View">
     <p class="my-4"></p>
         <p class="my-5">If you would like to learn more about me click link below.</p>
-        <a class="btn btn-primary btn-lg learnMore" href="Resume.html" role="button">Learn more</a>
+        <a class="btn btn-primary btn-lg learnMore" href="https://drive.google.com/file/d/1x7Xfx3irEHFHISR14A_BpoYieDXSARae/view?usp=sharing" role="button">Learn more</a>
     </div></>
     );
 }
