@@ -1,5 +1,5 @@
 import React from 'react';
-import Code from './images/Code.jpg'
+// import code from './images/Code.jpg'
 
 export default function Home () {
     return (
